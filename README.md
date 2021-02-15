@@ -1,4 +1,4 @@
-# Epichloe_WGS_temp
+# Epichloe WGS scripts and supplementary files
 
 This is a repository for scripts and files associated with the submitted MS describing assembly and annotation of whole genome sequence for Epichloe typhina and Epichloe clarkii.
 
