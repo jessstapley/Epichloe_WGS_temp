@@ -4,23 +4,25 @@ This is a repository for scripts and files associated with the submitted MS desc
 
 
 # Readme for annotation files
+In all filenames "Ec" refers to Epichloe clarkii and "Et" to Epichloe typhina
 
 Raw data from Interproscan 
 Ec_mb_itps.*
 Et_mb_itps.*
 
-Using R we created a new file for downstream analysis
+Using R we created a new file for downstream analysis.
+
 We retained only information from the following databases 
 "CDD", "Gene3D", "PANTHER" , "Pfam", "SUPERFAMILY"
 These seemed to be the most useful and complete.
 
 We then reorganised the files so that each gene/protien is on a single line and added gene position (start/end). 
-These files are table deliminted.
+These files are tab deliminted.
 genAnn_etmb.txt
 genAnn_ecmb.txt
 
 
-SignalP and effectorP produce fasta files.
+SignalP and effectorP produced the following fasta files.
 Ec_signalP.fa
 EffectorCandidates_Ec.fasta
 EffectorCandidates_Et.fasta
