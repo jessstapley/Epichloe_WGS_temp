@@ -6,9 +6,9 @@ This is a repository for scripts and files associated with the submitted MS desc
 # Readme for annotation files
 In all filenames "Ec" refers to Epichloe clarkii and "Et" to Epichloe typhina
 
-Raw data from Interproscan 
-Ec_mb_itps.*
-Et_mb_itps.*
+Raw data (tsv) from Interproscan 
+Ec_mb_itps.tsv
+Et_mb_itps.tsv
 
 Using R we created a new file for downstream analysis.
 
