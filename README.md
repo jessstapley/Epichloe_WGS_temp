@@ -4,7 +4,7 @@ This is a repository for scripts and files associated with the submitted MS desc
 
 
 # Readme for annotation files
-In all filenames "Ec" refers to Epichloe clarkii and "Et" to Epichloe typhina
+For all these annotation filenames - "Ec" refers to Epichloe clarkii and "Et" to Epichloe typhina
 
 Raw data (tsv) from Interproscan 
 Ec_mb_itps.tsv
