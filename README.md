@@ -6,6 +6,8 @@ This is a repository for scripts and files associated with the submitted MS desc
 # Readme for annotation files
 For all these annotation filenames - "Ec" refers to Epichloe clarkii and "Et" to Epichloe typhina
 
+GFF3 files from Funnanotate predict: Epichloe_typhina_mb.gff3, Epichloe_clarkii_mb.gff3
+
 Raw data (tsv) from Interproscan: 
 Ec_mb_itps.tsv, Et_mb_itps.tsv
 
