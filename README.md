@@ -17,12 +17,14 @@ We retained only information from the following databases
 These seemed to be the most useful and complete.
 
 We then reorganised the files so that each gene/protien is on a single line and added gene position (start/end). 
-These files are tab deliminted.
+These files are tab deliminted. To read these into R use "read.delim"
+
 genAnn_etmb.txt
 genAnn_ecmb.txt
 
 
 SignalP and effectorP produced the following fasta files.
+
 Ec_signalP.fa
 EffectorCandidates_Ec.fasta
 EffectorCandidates_Et.fasta
